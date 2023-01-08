@@ -9,8 +9,9 @@ public class LinkedListDemo {
 
 	
 		List<Integer>lls= new LinkedList<Integer>();
-		lls.add(2);
 		lls.add(1);
+		lls.add(3);
+		lls.add(20)
 		System.out.println(lls);
 	}
 
